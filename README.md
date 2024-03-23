@@ -22,3 +22,6 @@ Use the notebooks as they have been defined, there is a code block with instruct
 
 ## License
 All the code in this repository is licensed under a GPLv3 License.
+
+ersilia serve eos30gr 
+ersilia -v api run -i "CCCC"

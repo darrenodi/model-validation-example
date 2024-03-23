@@ -13,5 +13,5 @@ def get_inchikey(smiles):
                 inchikey = None
         else:
             inchikey = None
-        inchikeys.append(inchikey)
+        inchikeys.append(inchikey)ls
     return inchikeys
